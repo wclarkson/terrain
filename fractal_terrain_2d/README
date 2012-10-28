@@ -1,0 +1,13 @@
+2D Fractal Terrain Generation in Processing
+Started: January 6, 2012
+
+This sketch builds on the original 1D version, and implements the full
+diamond-square algorithm. The terrain is stored in a 2D array of floats, and
+rendered using Processing's internal 3D renderer. I also added the ability to
+export a 3D model of the terrain in STL format, which is pretty straightforward
+to output. The terrain map can also be drawn as a 2D grayscale heightmap.
+
+The following resources were important in understanding the algorithm:
+
+http://gameprogrammer.com/fractal.html
+http://paulboxley.com/blog/2011/03/terrain-generation-mark-one

@@ -1,0 +1,7 @@
+Fractal Terrain Generation in Processing
+Started: January 6, 2012
+
+This was my first attempt at generating random terrain using a 1-dimensional
+version of the diamond-square algorithm. To illustrate the iterative steps of
+the algorithm, moving the mouse left and right sets the number of iterations
+performed. Clicking the mouse sets a new random seed.

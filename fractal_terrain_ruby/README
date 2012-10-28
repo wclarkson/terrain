@@ -1,0 +1,7 @@
+1D Fractal Terrain Generation in Ruby
+Started: January 5, 2012
+
+This was my first attempt at a 1D version of a random subdivision algorithm for
+generating terrain. The resulting height array is exported to an SVG file.
+After this test, I moved to Processing for better performance and simpler
+interactivity and graphics rendering.
