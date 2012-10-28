@@ -1,0 +1,12 @@
+Experiments in Fractal Terrain Generation
+January, 2012
+
+Over winter break I became interested in how relatively simple algorithms can
+be used to generate complex and rather realistic terrain. This article, in
+particular, sparked my interest:
+
+http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+
+I started with a simple Ruby program to generate 1D terrain data and ended up
+with a Processing sketch capable of rendering a passable 3D model of a 2D
+heightmap, as well as exporting an STL of the terrain.
